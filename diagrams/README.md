@@ -1,14 +1,17 @@
-# Diagramas
+# Diagrams
 
-Los diagramas de este proyecto fueron realizados con Draw.io
+The diagrams in this project were created using Draw.io.
 
-Debido a su tamaño, no se incluyen como imágenes PNG o PDF, ya que la lectura pierde calidad.
+Due to their size, they are not included as PNG or PDF images, as this reduces readability.
 
-Para visualizarlos correctamente:
+To view them correctly:
 
-1. Descargue el archivo `.xml`.
-2. Abra **Draw.io (diagrams.net)**.
-3. Seleccione **Archivo → Abrir desde → Dispositivo**.
-4. Elija el archivo `.xml`.
+1. Download the `.xml` file.
 
-También puede abrirlo directamente desde la versión web de Draw.io importando el archivo.
+2. Open **Draw.io (diagramas.net)**.
+
+3. Select **File → Open from → Device**.
+
+4. Choose the `.xml` file.
+
+You can also open it directly from the web version of Draw.io by importing the file.
