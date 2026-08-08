@@ -1,6 +1,8 @@
 ,,,,,,
 ,,,,,,
 ,,,,,,
+Analisis de metas,
+
 Actor,Actividad,Meta,Id Meta,Funcionalidad,Id Meta Intra-actor,Id Meta Inter-actor
 Tutor/Padre/Progenitor,Solicitar Permiso,Conseguir permiso de viaje a exterior de menor,M01,"Registrar documentacion de 
 permiso",M01,M01
@@ -42,6 +44,8 @@ Boca de cobro,Realizar cobro presencial de impuesto,Cobrar impuesto de forma no 
 ,,,,,,
 ,,,,,,
 ,,,,,,
+Tabla Resumen,
+
 Meta,Conseguir permiso de viaje a exterior de menor,,,,,
 Actor,Tutor/Padre/Progenitor,,,,,
 Tipo Actor,Primario,,,,,
