@@ -8,23 +8,23 @@ The objective of the project is to model the system from a software engineering 
 
 Artifacts
 
-✔ Goal Analysis
+-Goal Analysis
 
-✔ Stakeholder Analysis
+-Stakeholder Analysis
 
-✔ Functional Requirements
+-Functional Requirements
 
-✔ CRUD Matrix
+-CRUD Matrix
 
-✔ Use Cases
+-Use Cases
 
-✔ Domain Model
+-Domain Model
 
-✔ Activity Diagram
+-Activity Diagram
 
-✔ State Machine
+-State Machine
 
-✔ Navigation Model
+-Navigation Model
 
 Technologies
 UML
