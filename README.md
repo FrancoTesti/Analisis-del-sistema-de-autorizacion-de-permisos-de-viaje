@@ -32,3 +32,5 @@ Object-Oriented Analysis
 Requirements Engineering
 Domain Modeling
 State Modeling
+
+The documentation and UML models are written in Spanish, as they were developed for an academic Information system analysis course.
