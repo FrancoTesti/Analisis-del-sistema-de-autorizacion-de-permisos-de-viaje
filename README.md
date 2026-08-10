@@ -1,36 +1,30 @@
-# travel-permit-authorization-system-analysis
+# Análisis del sistema de autorización de viajes
+Resumen
 
-Overview
+Este repositorio contiene el análisis y el diseño conceptual de un sistema de información para la gestión de permisos de viaje para menores que viajan al extranjero.
 
-This repository contains the analysis and conceptual design of an information system for managing travel authorization permits for minors traveling abroad.
+El objetivo del proyecto es modelar el sistema desde la perspectiva de la ingeniería de software antes de su implementación.
 
-The objective of the project is to model the system from a software engineering perspective before implementation.
+Artefactos
 
-Artifacts
+- Análisis de objetivos
 
--Goal Analysis
+- Análisis de partes interesadas
 
--Stakeholder Analysis
+- Requisitos funcionales
 
--Functional Requirements
+- Matriz CRUD
 
--CRUD Matrix
+- Casos de uso
 
--Use Cases
+- Modelo de dominio
 
--Domain Model
+- Diagrama de actividades
 
--Activity Diagram
+- Máquina de estados
 
--State Machine
+- Modelo de navegación
 
--Navigation Model
+Tecnologías: UML, Análisis orientado a objetos, Ingeniería de requisitos, Modelado de dominio, Modelado de estados
 
-Technologies
-UML
-Object-Oriented Analysis
-Requirements Engineering
-Domain Modeling
-State Modeling
-
-The documentation and UML models are written in Spanish, as they were developed for an academic Information system analysis course.
+La documentación y los modelos UML están escritos en español, ya que fueron desarrollados para un curso académico de análisis de sistemas de información.
