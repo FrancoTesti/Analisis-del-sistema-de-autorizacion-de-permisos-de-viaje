@@ -1,6 +1,4 @@
 # Análisis del sistema de autorización de viajes
-Resumen
-
 Este repositorio contiene el análisis y el diseño conceptual de un sistema de información para la gestión de permisos de viaje para menores que viajan al extranjero.
 
 El objetivo del proyecto es modelar el sistema desde la perspectiva de la ingeniería de software antes de su implementación.
