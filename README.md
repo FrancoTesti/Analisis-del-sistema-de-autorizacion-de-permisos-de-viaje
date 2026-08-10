@@ -25,4 +25,3 @@ Artefactos
 
 Tecnologías: UML, Análisis orientado a objetos, Ingeniería de requisitos, Modelado de dominio, Modelado de estados
 
-La documentación y los modelos UML están escritos en español, ya que fueron desarrollados para un curso académico de análisis de sistemas de información.
