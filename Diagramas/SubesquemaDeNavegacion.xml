@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="poYLHVHGxcvD-1mNltFG">
+    <mxGraphModel dx="2284" dy="1031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BU4hSOUmK990OR2k3qkZ-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;h3 data-path-to-node=&quot;1&quot;&gt;Subesquema de Navegación&lt;/h3&gt;&lt;p data-path-to-node=&quot;2&quot;&gt;&lt;b data-path-to-node=&quot;2&quot; data-index-in-node=&quot;0&quot;&gt;Enunciado:&lt;/b&gt;&lt;br&gt;El Representante Legal necesita conocer, dado un número de expediente, la fecha de creación del mismo, el canal elegido del pago vinculado, el nombre, apellido y edad del menor al que corresponde, y el detalle de los progenitores o tutores que lo iniciaron (DNI, nombre y apellido).&lt;/p&gt;&lt;h3 data-path-to-node=&quot;4&quot;&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="150" width="560" x="490" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="BU4hSOUmK990OR2k3qkZ-2" edge="1" parent="1" source="BU4hSOUmK990OR2k3qkZ-6" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BU4hSOUmK990OR2k3qkZ-3" edge="1" parent="1" source="BU4hSOUmK990OR2k3qkZ-6" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" target="BU4hSOUmK990OR2k3qkZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BU4hSOUmK990OR2k3qkZ-4" edge="1" parent="1" source="BU4hSOUmK990OR2k3qkZ-6" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BU4hSOUmK990OR2k3qkZ-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="1000" />
+            </Array>
+            <mxPoint x="620" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BU4hSOUmK990OR2k3qkZ-5" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BU4hSOUmK990OR2k3qkZ-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="680" />
+              <mxPoint x="620" y="1120" />
+            </Array>
+            <mxPoint x="634" y="680" as="sourcePoint" />
+            <mxPoint x="650" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BU4hSOUmK990OR2k3qkZ-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Expendiente" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="BU4hSOUmK990OR2k3qkZ-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BU4hSOUmK990OR2k3qkZ-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="650" />
+            </Array>
+            <mxPoint x="330" y="530" as="sourcePoint" />
+            <mxPoint x="380" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BU4hSOUmK990OR2k3qkZ-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SOL - FeExpendiente.nroExpendiente = nroExpendiente" vertex="1">
+          <mxGeometry height="30" width="400" x="240" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="BU4hSOUmK990OR2k3qkZ-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="fechaCreacion" vertex="1">
+          <mxGeometry height="30" width="60" x="950" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="BU4hSOUmK990OR2k3qkZ-10" edge="1" parent="1" source="BU4hSOUmK990OR2k3qkZ-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BU4hSOUmK990OR2k3qkZ-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pago" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="BU4hSOUmK990OR2k3qkZ-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-align: left;&quot;&gt;canalElegido&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="930" y="785" as="geometry" />
+        </mxCell>
+        <mxCell id="BU4hSOUmK990OR2k3qkZ-13" edge="1" parent="1" source="BU4hSOUmK990OR2k3qkZ-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BU4hSOUmK990OR2k3qkZ-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Menor" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="BU4hSOUmK990OR2k3qkZ-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="nombreYApell&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ido,edad&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="900" y="985" as="geometry" />
+        </mxCell>
+        <mxCell id="BU4hSOUmK990OR2k3qkZ-16" edge="1" parent="1" source="BU4hSOUmK990OR2k3qkZ-17" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BU4hSOUmK990OR2k3qkZ-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ProgenitorTutor" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="BU4hSOUmK990OR2k3qkZ-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="dni,nombreYApellido" vertex="1">
+          <mxGeometry height="30" width="120" x="950" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="BU4hSOUmK990OR2k3qkZ-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Fe: Ingreso =&amp;nbsp; nroExpendiente&lt;div&gt;Fs : Mostrar = fechaCreacion +&amp;nbsp;&lt;span style=&quot;text-align: left;&quot;&gt;canalElegido&lt;/span&gt;+ nombreYApellido + edad 1{nombreYApellido + dni&lt;span style=&quot;color: rgb(255, 4, 4);&quot;&gt;}2&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="510" x="440" y="450" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
