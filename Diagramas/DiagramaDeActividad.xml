@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="DA" id="BzVdwjMrxb6ypvVVRBBn">
-    <mxGraphModel dx="3589" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4187" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,7 +180,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mCWW4PqieiddaMrncZGr-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="&lt;font style=&quot;font-size: 24px; background-color: rgb(126, 166, 224);&quot;&gt;Boca de Cobro&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="270" x="1570" y="190" as="geometry" />
+          <mxGeometry height="30" width="270" x="1590" y="190" as="geometry" />
         </mxCell>
         <mxCell id="mCWW4PqieiddaMrncZGr-48" parent="1" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#FFFFFF;flipH=0;spacingRight=0;spacingLeft=14;whiteSpace=wrap;" value="Cliente solicita pago impuesto de sellado" vertex="1">
           <mxGeometry height="40" width="170" x="1665" y="955" as="geometry" />
@@ -252,7 +252,7 @@
         <mxCell id="MSl3fkipV05CIyw7m0cH-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CA02" vertex="1">
           <mxGeometry height="30" width="60" x="2500" y="1610" as="geometry" />
         </mxCell>
-        <mxCell id="MSl3fkipV05CIyw7m0cH-66" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;u&gt;&lt;b&gt;Cuestiones abiertas&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CA02: El enunciado no da informacion al respecto de que ocurre si los controles no son superados&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CA02: ¿Que ocurre si no se cumple? El enunciado no entra en detalle , es ambiguo.&lt;/div&gt;" vertex="1">
+        <mxCell id="MSl3fkipV05CIyw7m0cH-66" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;u&gt;&lt;b&gt;Cuestiones abiertas&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CA02: El enunciado no da informacion al respecto de que ocurre si los controles no son superados&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CA03: ¿Que ocurre si no se cumple? El enunciado no entra en detalle , es ambiguo.&lt;/div&gt;" vertex="1">
           <mxGeometry height="150" width="220" x="2030" y="1460" as="geometry" />
         </mxCell>
         <mxCell id="MSl3fkipV05CIyw7m0cH-67" edge="1" parent="1" source="MSl3fkipV05CIyw7m0cH-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MSl3fkipV05CIyw7m0cH-73">
