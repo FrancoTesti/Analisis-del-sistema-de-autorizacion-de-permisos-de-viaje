@@ -1,0 +1,179 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="2l3QrLM62WsIImeOJ-_7" name="Page-1">
+    <mxGraphModel dx="1193" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ONl5xIE-06biMWgVBudA-1" edge="1" parent="1" source="ONl5xIE-06biMWgVBudA-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ONl5xIE-06biMWgVBudA-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2063" y="1191.8899999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-2" parent="1" style="ellipse;fillColor=strokeColor;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="2048" y="1031.8899999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-3" edge="1" parent="1" source="ONl5xIE-06biMWgVBudA-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ONl5xIE-06biMWgVBudA-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2063" y="1251.8899999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Iniciado" vertex="1">
+          <mxGeometry height="35.5" width="120" x="2003" y="1136.3899999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Progenitor solicita turno y carga docs" vertex="1">
+          <mxGeometry height="30" width="60" x="2088" y="1081.8899999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-6" edge="1" parent="1" source="ONl5xIE-06biMWgVBudA-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ONl5xIE-06biMWgVBudA-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1888" y="1381.8899999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-7" edge="1" parent="1" source="ONl5xIE-06biMWgVBudA-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ONl5xIE-06biMWgVBudA-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2258" y="1361.8899999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-8" parent="1" style="rhombus;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="2038" y="1241.8899999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="[edad &amp;gt;= 18]" vertex="1">
+          <mxGeometry height="30" width="135" x="2098" y="1231.8899999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="[edad &amp;lt; 18]" vertex="1">
+          <mxGeometry height="30" width="135" x="1888" y="1241.8899999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-11" edge="1" parent="1" source="ONl5xIE-06biMWgVBudA-13" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" target="ONl5xIE-06biMWgVBudA-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-12" edge="1" parent="1" source="ONl5xIE-06biMWgVBudA-13" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" target="ONl5xIE-06biMWgVBudA-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;" value="Turno asignado" vertex="1">
+          <mxGeometry height="35.5" width="120" x="1828" y="1366.3899999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-14" edge="1" parent="1" source="ONl5xIE-06biMWgVBudA-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" target="ONl5xIE-06biMWgVBudA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Rechazado por mayoria de edad" vertex="1">
+          <mxGeometry height="35.5" width="120" x="2188" y="1371.8899999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-16" parent="1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="2233" y="1451.8899999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-17" edge="1" parent="1" source="ONl5xIE-06biMWgVBudA-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ONl5xIE-06biMWgVBudA-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2058" y="1496.93" />
+              <mxPoint x="2058" y="1486.93" />
+            </Array>
+            <mxPoint x="2058" y="1581.8899999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-18" edge="1" parent="1" source="ONl5xIE-06biMWgVBudA-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" target="ONl5xIE-06biMWgVBudA-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-19" parent="1" style="rhombus;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="1863" y="1471.8899999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-20" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;" value="[docs inválidos]" vertex="1">
+          <mxGeometry height="30" width="145" x="1913" y="1461.8899999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-21" edge="1" parent="1" source="ONl5xIE-06biMWgVBudA-22" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" target="ONl5xIE-06biMWgVBudA-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;" value="Rechazado por documentos invalidos" vertex="1">
+          <mxGeometry height="35.5" width="120" x="1998" y="1566.3899999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-23" parent="1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="2043" y="1651.89" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-24" edge="1" parent="1" source="ONl5xIE-06biMWgVBudA-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" target="ONl5xIE-06biMWgVBudA-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1560.5" y="1706.8100000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Pendiente de Firma" vertex="1">
+          <mxGeometry height="35.5" width="120" x="1500.5" y="1581.31" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-26" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Representante sube foto del permiso firmado" vertex="1">
+          <mxGeometry height="55" width="140" x="1438" y="1654.64" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-27" edge="1" parent="1" source="ONl5xIE-06biMWgVBudA-28" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" target="ONl5xIE-06biMWgVBudA-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Vigente" vertex="1">
+          <mxGeometry height="35.5" width="120" x="1500.5" y="1715.8100000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-29" parent="1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="1545.5" y="1799.64" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="IA valida edad" vertex="1">
+          <mxGeometry height="30" width="60" x="2073" y="1191.8899999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-31" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Representante atiende turno" vertex="1">
+          <mxGeometry height="40" width="170" x="1900.5" y="1411.8899999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="[docs válidos]" vertex="1">
+          <mxGeometry height="30" width="145" x="1743" y="1566.39" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-33" edge="1" parent="1" source="ONl5xIE-06biMWgVBudA-34" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" target="ONl5xIE-06biMWgVBudA-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;" value="Pendiente de pago" vertex="1">
+          <mxGeometry height="35.5" width="120" x="1793" y="1640.64" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Progenitor paga presencial" vertex="1">
+          <mxGeometry height="30" width="145" x="1638" y="1669.64" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-36" edge="1" parent="1" source="ONl5xIE-06biMWgVBudA-37" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" target="ONl5xIE-06biMWgVBudA-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;" value="Turno asignado y pagado" vertex="1">
+          <mxGeometry height="35.5" width="120" x="1188" y="1365.27" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-38" edge="1" parent="1" source="ONl5xIE-06biMWgVBudA-39" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ONl5xIE-06biMWgVBudA-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1238" y="1619.14" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-39" parent="1" style="rhombus;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="1218" y="1468.52" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-40" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Representante evalua docs" vertex="1">
+          <mxGeometry height="40" width="170" x="1278" y="1421.8899999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-41" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="[docs validos]" vertex="1">
+          <mxGeometry height="40" width="170" x="1298" y="1518.52" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-42" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="[docs invalidos]" vertex="1">
+          <mxGeometry height="40" width="80" x="1138" y="1526.3899999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-43" edge="1" parent="1" source="ONl5xIE-06biMWgVBudA-39" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" target="ONl5xIE-06biMWgVBudA-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1128" y="1493.57" />
+              <mxPoint x="1128" y="1972.14" />
+              <mxPoint x="2138.14" y="1972.14" />
+              <mxPoint x="2138.14" y="1584.14" />
+              <mxPoint x="2210" y="1584.14" />
+              <mxPoint x="2210" y="1486.86" />
+            </Array>
+            <mxPoint x="1028.0588235294122" y="1654.64" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="Progenitor paga online" vertex="1">
+          <mxGeometry height="30" width="145" x="1503" y="1342" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-45" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;p data-path-to-node=&quot;1&quot; id=&quot;p-rc_4810d7ba919d8588-122&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;span data-path-to-node=&quot;1,0&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Desarrollar la Máquina de Estados de la clase responsable de gestionar el ciclo de vida del trámite (por ejemplo, &lt;code data-path-to-node=&quot;1,0&quot; data-index-in-node=&quot;114&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Expediente&lt;/code&gt; o &lt;code data-path-to-node=&quot;1,0&quot; data-index-in-node=&quot;127&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Permiso_Viaje&lt;/code&gt;)&lt;/span&gt;&lt;span data-path-to-node=&quot;1,1&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;&lt;span data-path-to-node=&quot;1,2&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;.&lt;/span&gt;  &lt;/p&gt;&lt;p data-path-to-node=&quot;2&quot; id=&quot;p-rc_4810d7ba919d8588-123&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;span data-path-to-node=&quot;2,0&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Debes abarcar todo el proceso descrito en el relevamiento, desde que los progenitores ingresan a la plataforma para cargar la documentación inicial hasta que el permiso pierde su validez&lt;/span&gt;&lt;span data-path-to-node=&quot;2,1&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;&lt;span data-path-to-node=&quot;2,2&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;. Identifica con precisión matemática los estados, las transiciones, los eventos disparadores y las condiciones de guarda correspondientes exigidas en el dominio&lt;/span&gt;&lt;span data-path-to-node=&quot;2,3&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;&lt;span data-path-to-node=&quot;2,4&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;.&lt;/span&gt;  &lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="560" x="1770" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-47" edge="1" parent="1" source="ONl5xIE-06biMWgVBudA-46" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" target="ONl5xIE-06biMWgVBudA-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONl5xIE-06biMWgVBudA-46" parent="1" style="rhombus;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="2110" y="1461.89" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
