@@ -5,7 +5,7 @@
 * **Estructura:** Sin estructurar
 * **Interacción:** Semántica
 * **Instanciación:** Real
-* * **Caja:** Negra
+* **Caja:** Negra
 * **Meta:** Activar la vigencia del permiso de viaje.
 * **Actor Primario:** Representante Legal.
 * **Otros:** Sistema de Migraciones (SIMI), Plataforma
