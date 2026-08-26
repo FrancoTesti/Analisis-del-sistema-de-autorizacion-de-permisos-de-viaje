@@ -5,6 +5,7 @@
 * **Estructura:** Sin Estructurar
 * **Interacción:** Semántica
 * **Instanciación:** Real
+* **Caja:** Negra
 * **Meta:** Autorizar permiso de viaje al exterior.
 * **Actor Primario:** Progenitor/Tutor.
 * **Otros:** Representante legal, SIMI.
